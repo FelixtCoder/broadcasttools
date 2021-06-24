@@ -1,0 +1,13 @@
+Config:
+   #Youtube
+   #Usa %link% para que se remplace con el link
+   aviso-youtube: "&8[&c&lYoutube&r&8] &5%link%"
+   #Twitch
+   #Usa %link para que se remplace con el link%
+   aviso-twitch: "&8[&d&lTwitch&r&8] &c%link%"
+   prefix-broadcast: "&8[&4&lAviso&r&8]"
+   # Poder enviar comandos com: /twitch, /youtube, /aviso desde la consola
+   # Por defecto en "no", lo puedes poner en "si"
+   alertas-desde-consola: "no"
+   # Error de permisos
+   error-message: "&c&lNo puedes ejecutar este comando"

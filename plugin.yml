@@ -1,0 +1,15 @@
+main: nicecraft.broadcasttools.BroadcastTools
+version: 1.0.1
+name: BroadcastTools
+
+
+commands:
+       broadcasttools:
+          description: Comando principal
+       bct:
+          description: Comando principal
+       twitch:
+          description: Envia un mensaje global indicando que estas en directo
+       youtube:
+          description: Envia un mensaje global indicando que has subido un nuevo videos
+        
