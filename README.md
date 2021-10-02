@@ -9,7 +9,7 @@
 # Full Customization
 
 Custom messages with 
-[config.yml] (https://github.com/FelixtCoder/broadcasttools/blob/main/config.yml)
+* [config.yml] (https://github.com/FelixtCoder/broadcasttools/blob/main/config.yml)
 
 ## Open code for you!
 
