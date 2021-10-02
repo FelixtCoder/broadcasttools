@@ -8,7 +8,8 @@
 
 # Full Customization
 
-Custom messages with [config.yml] (config.yml)
+Custom messages with 
+[config.yml] (config.yml)
 
 ## Open code for you!
 
